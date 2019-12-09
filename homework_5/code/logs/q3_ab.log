@@ -1,0 +1,494 @@
+Dataset stats...
+(872, 5)
+Min value of each feature of training data
+[-7.04 -13.68 -5.29 -8.55 1.00]
+Max value of each feature of training data
+[6.82 12.62 17.61 2.16 1.00]
+
+
+=======================================================================
+	Hamiltonian Monte Carlo Sampling with Leapfrog
+=======================================================================
+
+Burnin stage, epsilon = 0.005, L= 10
+Iter   5000 done
+Iter  10000 done
+Iter  15000 done
+Iter  20000 done
+Iter  25000 done
+Iter  30000 done
+Iter  35000 done
+Iter  40000 done
+Iter  45000 done
+Iter  50000 done
+Iter  55000 done
+Iter  60000 done
+Iter  65000 done
+Iter  70000 done
+Iter  75000 done
+Iter  80000 done
+Iter  85000 done
+Iter  90000 done
+Iter  95000 done
+Iter 100000 done
+Generating samples after burnin stage...
+Iter   5000 done
+Iter  10000 done
+Testing on posterior samples...
+  100 Posterior Weight samples Test_data Pred_acc= 99.00, Pred_log_likelihood= -0.04
+  200 Posterior Weight samples Test_data Pred_acc= 99.00, Pred_log_likelihood= -0.04
+  300 Posterior Weight samples Test_data Pred_acc= 99.00, Pred_log_likelihood= -0.04
+  400 Posterior Weight samples Test_data Pred_acc= 99.00, Pred_log_likelihood= -0.04
+  500 Posterior Weight samples Test_data Pred_acc= 99.00, Pred_log_likelihood= -0.04
+  600 Posterior Weight samples Test_data Pred_acc= 99.00, Pred_log_likelihood= -0.04
+  700 Posterior Weight samples Test_data Pred_acc= 99.00, Pred_log_likelihood= -0.04
+  800 Posterior Weight samples Test_data Pred_acc= 99.00, Pred_log_likelihood= -0.04
+  900 Posterior Weight samples Test_data Pred_acc= 99.00, Pred_log_likelihood= -0.04
+ 1000 Posterior Weight samples Test_data Pred_acc= 99.00, Pred_log_likelihood= -0.04
+Acceptance rate= 0.002300
+
+Burnin stage, epsilon = 0.005, L= 20
+Iter   5000 done
+Iter  10000 done
+Iter  15000 done
+Iter  20000 done
+Iter  25000 done
+Iter  30000 done
+Iter  35000 done
+Iter  40000 done
+Iter  45000 done
+Iter  50000 done
+Iter  55000 done
+Iter  60000 done
+Iter  65000 done
+Iter  70000 done
+Iter  75000 done
+Iter  80000 done
+Iter  85000 done
+Iter  90000 done
+Iter  95000 done
+Iter 100000 done
+Generating samples after burnin stage...
+Iter   5000 done
+Iter  10000 done
+Testing on posterior samples...
+  100 Posterior Weight samples Test_data Pred_acc= 98.97, Pred_log_likelihood= -0.04
+  200 Posterior Weight samples Test_data Pred_acc= 98.99, Pred_log_likelihood= -0.04
+  300 Posterior Weight samples Test_data Pred_acc= 98.99, Pred_log_likelihood= -0.04
+  400 Posterior Weight samples Test_data Pred_acc= 99.00, Pred_log_likelihood= -0.04
+  500 Posterior Weight samples Test_data Pred_acc= 98.99, Pred_log_likelihood= -0.04
+  600 Posterior Weight samples Test_data Pred_acc= 99.00, Pred_log_likelihood= -0.04
+  700 Posterior Weight samples Test_data Pred_acc= 99.00, Pred_log_likelihood= -0.04
+  800 Posterior Weight samples Test_data Pred_acc= 99.00, Pred_log_likelihood= -0.04
+  900 Posterior Weight samples Test_data Pred_acc= 99.00, Pred_log_likelihood= -0.04
+ 1000 Posterior Weight samples Test_data Pred_acc= 99.00, Pred_log_likelihood= -0.04
+Acceptance rate= 0.056000
+
+Burnin stage, epsilon = 0.005, L= 50
+Iter   5000 done
+Iter  10000 done
+Iter  15000 done
+Iter  20000 done
+Iter  25000 done
+Iter  30000 done
+Iter  35000 done
+Iter  40000 done
+Iter  45000 done
+Iter  50000 done
+Iter  55000 done
+Iter  60000 done
+Iter  65000 done
+Iter  70000 done
+Iter  75000 done
+Iter  80000 done
+Iter  85000 done
+Iter  90000 done
+Iter  95000 done
+Iter 100000 done
+Generating samples after burnin stage...
+Iter   5000 done
+Iter  10000 done
+Testing on posterior samples...
+  100 Posterior Weight samples Test_data Pred_acc= 99.00, Pred_log_likelihood= -0.03
+  200 Posterior Weight samples Test_data Pred_acc= 99.01, Pred_log_likelihood= -0.03
+  300 Posterior Weight samples Test_data Pred_acc= 99.01, Pred_log_likelihood= -0.03
+  400 Posterior Weight samples Test_data Pred_acc= 99.01, Pred_log_likelihood= -0.03
+  500 Posterior Weight samples Test_data Pred_acc= 99.00, Pred_log_likelihood= -0.03
+  600 Posterior Weight samples Test_data Pred_acc= 99.01, Pred_log_likelihood= -0.03
+  700 Posterior Weight samples Test_data Pred_acc= 99.02, Pred_log_likelihood= -0.03
+  800 Posterior Weight samples Test_data Pred_acc= 99.01, Pred_log_likelihood= -0.03
+  900 Posterior Weight samples Test_data Pred_acc= 99.01, Pred_log_likelihood= -0.03
+ 1000 Posterior Weight samples Test_data Pred_acc= 99.00, Pred_log_likelihood= -0.03
+Acceptance rate= 0.060400
+
+Burnin stage, epsilon = 0.010, L= 10
+Iter   5000 done
+Iter  10000 done
+Iter  15000 done
+Iter  20000 done
+Iter  25000 done
+Iter  30000 done
+Iter  35000 done
+Iter  40000 done
+Iter  45000 done
+Iter  50000 done
+Iter  55000 done
+Iter  60000 done
+Iter  65000 done
+Iter  70000 done
+Iter  75000 done
+Iter  80000 done
+Iter  85000 done
+Iter  90000 done
+Iter  95000 done
+Iter 100000 done
+Generating samples after burnin stage...
+Iter   5000 done
+Iter  10000 done
+Testing on posterior samples...
+  100 Posterior Weight samples Test_data Pred_acc= 98.98, Pred_log_likelihood= -0.03
+  200 Posterior Weight samples Test_data Pred_acc= 98.99, Pred_log_likelihood= -0.03
+  300 Posterior Weight samples Test_data Pred_acc= 98.99, Pred_log_likelihood= -0.03
+  400 Posterior Weight samples Test_data Pred_acc= 98.99, Pred_log_likelihood= -0.03
+  500 Posterior Weight samples Test_data Pred_acc= 99.00, Pred_log_likelihood= -0.03
+  600 Posterior Weight samples Test_data Pred_acc= 99.01, Pred_log_likelihood= -0.03
+  700 Posterior Weight samples Test_data Pred_acc= 99.00, Pred_log_likelihood= -0.03
+  800 Posterior Weight samples Test_data Pred_acc= 99.00, Pred_log_likelihood= -0.03
+  900 Posterior Weight samples Test_data Pred_acc= 99.00, Pred_log_likelihood= -0.03
+ 1000 Posterior Weight samples Test_data Pred_acc= 99.00, Pred_log_likelihood= -0.03
+Acceptance rate= 0.047100
+
+Burnin stage, epsilon = 0.010, L= 20
+Iter   5000 done
+Iter  10000 done
+Iter  15000 done
+Iter  20000 done
+Iter  25000 done
+Iter  30000 done
+Iter  35000 done
+Iter  40000 done
+Iter  45000 done
+Iter  50000 done
+Iter  55000 done
+Iter  60000 done
+Iter  65000 done
+Iter  70000 done
+Iter  75000 done
+Iter  80000 done
+Iter  85000 done
+Iter  90000 done
+Iter  95000 done
+Iter 100000 done
+Generating samples after burnin stage...
+Iter   5000 done
+Iter  10000 done
+Testing on posterior samples...
+  100 Posterior Weight samples Test_data Pred_acc= 98.96, Pred_log_likelihood= -0.03
+  200 Posterior Weight samples Test_data Pred_acc= 98.97, Pred_log_likelihood= -0.03
+  300 Posterior Weight samples Test_data Pred_acc= 98.97, Pred_log_likelihood= -0.03
+  400 Posterior Weight samples Test_data Pred_acc= 98.97, Pred_log_likelihood= -0.03
+  500 Posterior Weight samples Test_data Pred_acc= 98.97, Pred_log_likelihood= -0.03
+  600 Posterior Weight samples Test_data Pred_acc= 98.97, Pred_log_likelihood= -0.03
+  700 Posterior Weight samples Test_data Pred_acc= 98.97, Pred_log_likelihood= -0.03
+  800 Posterior Weight samples Test_data Pred_acc= 98.97, Pred_log_likelihood= -0.03
+  900 Posterior Weight samples Test_data Pred_acc= 98.96, Pred_log_likelihood= -0.03
+ 1000 Posterior Weight samples Test_data Pred_acc= 98.96, Pred_log_likelihood= -0.03
+Acceptance rate= 0.135500
+
+Burnin stage, epsilon = 0.010, L= 50
+Iter   5000 done
+Iter  10000 done
+Iter  15000 done
+Iter  20000 done
+Iter  25000 done
+Iter  30000 done
+Iter  35000 done
+Iter  40000 done
+Iter  45000 done
+Iter  50000 done
+Iter  55000 done
+Iter  60000 done
+Iter  65000 done
+Iter  70000 done
+Iter  75000 done
+Iter  80000 done
+Iter  85000 done
+Iter  90000 done
+Iter  95000 done
+Iter 100000 done
+Generating samples after burnin stage...
+Iter   5000 done
+Iter  10000 done
+Testing on posterior samples...
+  100 Posterior Weight samples Test_data Pred_acc= 98.99, Pred_log_likelihood= -0.03
+  200 Posterior Weight samples Test_data Pred_acc= 98.98, Pred_log_likelihood= -0.03
+  300 Posterior Weight samples Test_data Pred_acc= 98.97, Pred_log_likelihood= -0.03
+  400 Posterior Weight samples Test_data Pred_acc= 98.96, Pred_log_likelihood= -0.03
+  500 Posterior Weight samples Test_data Pred_acc= 98.96, Pred_log_likelihood= -0.03
+  600 Posterior Weight samples Test_data Pred_acc= 98.96, Pred_log_likelihood= -0.03
+  700 Posterior Weight samples Test_data Pred_acc= 98.96, Pred_log_likelihood= -0.03
+  800 Posterior Weight samples Test_data Pred_acc= 98.96, Pred_log_likelihood= -0.03
+  900 Posterior Weight samples Test_data Pred_acc= 98.97, Pred_log_likelihood= -0.03
+ 1000 Posterior Weight samples Test_data Pred_acc= 98.97, Pred_log_likelihood= -0.03
+Acceptance rate= 0.075700
+
+Burnin stage, epsilon = 0.020, L= 10
+Iter   5000 done
+Iter  10000 done
+Iter  15000 done
+Iter  20000 done
+Iter  25000 done
+Iter  30000 done
+Iter  35000 done
+Iter  40000 done
+Iter  45000 done
+Iter  50000 done
+Iter  55000 done
+Iter  60000 done
+Iter  65000 done
+Iter  70000 done
+Iter  75000 done
+Iter  80000 done
+Iter  85000 done
+Iter  90000 done
+Iter  95000 done
+Iter 100000 done
+Generating samples after burnin stage...
+Iter   5000 done
+Iter  10000 done
+Testing on posterior samples...
+  100 Posterior Weight samples Test_data Pred_acc= 98.96, Pred_log_likelihood= -0.03
+  200 Posterior Weight samples Test_data Pred_acc= 98.96, Pred_log_likelihood= -0.03
+  300 Posterior Weight samples Test_data Pred_acc= 98.95, Pred_log_likelihood= -0.03
+  400 Posterior Weight samples Test_data Pred_acc= 98.96, Pred_log_likelihood= -0.03
+  500 Posterior Weight samples Test_data Pred_acc= 98.93, Pred_log_likelihood= -0.03
+  600 Posterior Weight samples Test_data Pred_acc= 98.92, Pred_log_likelihood= -0.03
+  700 Posterior Weight samples Test_data Pred_acc= 98.93, Pred_log_likelihood= -0.03
+  800 Posterior Weight samples Test_data Pred_acc= 98.93, Pred_log_likelihood= -0.03
+  900 Posterior Weight samples Test_data Pred_acc= 98.93, Pred_log_likelihood= -0.03
+ 1000 Posterior Weight samples Test_data Pred_acc= 98.94, Pred_log_likelihood= -0.03
+Acceptance rate= 0.119600
+
+Burnin stage, epsilon = 0.020, L= 20
+Iter   5000 done
+Iter  10000 done
+Iter  15000 done
+Iter  20000 done
+Iter  25000 done
+Iter  30000 done
+Iter  35000 done
+Iter  40000 done
+Iter  45000 done
+Iter  50000 done
+Iter  55000 done
+Iter  60000 done
+Iter  65000 done
+Iter  70000 done
+Iter  75000 done
+Iter  80000 done
+Iter  85000 done
+Iter  90000 done
+Iter  95000 done
+Iter 100000 done
+Generating samples after burnin stage...
+Iter   5000 done
+Iter  10000 done
+Testing on posterior samples...
+  100 Posterior Weight samples Test_data Pred_acc= 98.95, Pred_log_likelihood= -0.03
+  200 Posterior Weight samples Test_data Pred_acc= 98.97, Pred_log_likelihood= -0.03
+  300 Posterior Weight samples Test_data Pred_acc= 98.96, Pred_log_likelihood= -0.03
+  400 Posterior Weight samples Test_data Pred_acc= 98.98, Pred_log_likelihood= -0.03
+  500 Posterior Weight samples Test_data Pred_acc= 98.97, Pred_log_likelihood= -0.03
+  600 Posterior Weight samples Test_data Pred_acc= 98.97, Pred_log_likelihood= -0.03
+  700 Posterior Weight samples Test_data Pred_acc= 98.97, Pred_log_likelihood= -0.03
+  800 Posterior Weight samples Test_data Pred_acc= 98.97, Pred_log_likelihood= -0.03
+  900 Posterior Weight samples Test_data Pred_acc= 98.97, Pred_log_likelihood= -0.03
+ 1000 Posterior Weight samples Test_data Pred_acc= 98.96, Pred_log_likelihood= -0.03
+Acceptance rate= 0.072700
+
+Burnin stage, epsilon = 0.020, L= 50
+Iter   5000 done
+Iter  10000 done
+Iter  15000 done
+Iter  20000 done
+Iter  25000 done
+Iter  30000 done
+Iter  35000 done
+Iter  40000 done
+Iter  45000 done
+Iter  50000 done
+Iter  55000 done
+Iter  60000 done
+Iter  65000 done
+Iter  70000 done
+Iter  75000 done
+Iter  80000 done
+Iter  85000 done
+Iter  90000 done
+Iter  95000 done
+Iter 100000 done
+Generating samples after burnin stage...
+Iter   5000 done
+Iter  10000 done
+Testing on posterior samples...
+  100 Posterior Weight samples Test_data Pred_acc= 99.01, Pred_log_likelihood= -0.03
+  200 Posterior Weight samples Test_data Pred_acc= 98.97, Pred_log_likelihood= -0.03
+  300 Posterior Weight samples Test_data Pred_acc= 98.99, Pred_log_likelihood= -0.03
+  400 Posterior Weight samples Test_data Pred_acc= 98.98, Pred_log_likelihood= -0.03
+  500 Posterior Weight samples Test_data Pred_acc= 98.99, Pred_log_likelihood= -0.03
+  600 Posterior Weight samples Test_data Pred_acc= 98.97, Pred_log_likelihood= -0.03
+  700 Posterior Weight samples Test_data Pred_acc= 98.97, Pred_log_likelihood= -0.03
+  800 Posterior Weight samples Test_data Pred_acc= 98.96, Pred_log_likelihood= -0.03
+  900 Posterior Weight samples Test_data Pred_acc= 98.96, Pred_log_likelihood= -0.03
+ 1000 Posterior Weight samples Test_data Pred_acc= 98.96, Pred_log_likelihood= -0.03
+Acceptance rate= 0.095600
+
+Burnin stage, epsilon = 0.050, L= 10
+Iter   5000 done
+Iter  10000 done
+Iter  15000 done
+Iter  20000 done
+Iter  25000 done
+Iter  30000 done
+Iter  35000 done
+Iter  40000 done
+Iter  45000 done
+Iter  50000 done
+Iter  55000 done
+Iter  60000 done
+Iter  65000 done
+Iter  70000 done
+Iter  75000 done
+Iter  80000 done
+Iter  85000 done
+Iter  90000 done
+Iter  95000 done
+Iter 100000 done
+Generating samples after burnin stage...
+Iter   5000 done
+Iter  10000 done
+Testing on posterior samples...
+  100 Posterior Weight samples Test_data Pred_acc= 44.20, Pred_log_likelihood= -0.69
+  200 Posterior Weight samples Test_data Pred_acc= 44.20, Pred_log_likelihood= -0.69
+  300 Posterior Weight samples Test_data Pred_acc= 44.20, Pred_log_likelihood= -0.69
+  400 Posterior Weight samples Test_data Pred_acc= 44.20, Pred_log_likelihood= -0.69
+  500 Posterior Weight samples Test_data Pred_acc= 44.20, Pred_log_likelihood= -0.69
+  600 Posterior Weight samples Test_data Pred_acc= 44.20, Pred_log_likelihood= -0.69
+  700 Posterior Weight samples Test_data Pred_acc= 44.20, Pred_log_likelihood= -0.69
+  800 Posterior Weight samples Test_data Pred_acc= 44.20, Pred_log_likelihood= -0.69
+  900 Posterior Weight samples Test_data Pred_acc= 44.20, Pred_log_likelihood= -0.69
+ 1000 Posterior Weight samples Test_data Pred_acc= 44.20, Pred_log_likelihood= -0.69
+Acceptance rate= 0.000000
+
+Burnin stage, epsilon = 0.050, L= 20
+Iter   5000 done
+Iter  10000 done
+Iter  15000 done
+Iter  20000 done
+Iter  25000 done
+Iter  30000 done
+Iter  35000 done
+Iter  40000 done
+Iter  45000 done
+Iter  50000 done
+Iter  55000 done
+Iter  60000 done
+Iter  65000 done
+Iter  70000 done
+Iter  75000 done
+Iter  80000 done
+Iter  85000 done
+Iter  90000 done
+Iter  95000 done
+Iter 100000 done
+Generating samples after burnin stage...
+Iter   5000 done
+Iter  10000 done
+Testing on posterior samples...
+  100 Posterior Weight samples Test_data Pred_acc= 44.20, Pred_log_likelihood= -0.69
+  200 Posterior Weight samples Test_data Pred_acc= 44.20, Pred_log_likelihood= -0.69
+  300 Posterior Weight samples Test_data Pred_acc= 44.20, Pred_log_likelihood= -0.69
+  400 Posterior Weight samples Test_data Pred_acc= 44.20, Pred_log_likelihood= -0.69
+  500 Posterior Weight samples Test_data Pred_acc= 44.20, Pred_log_likelihood= -0.69
+  600 Posterior Weight samples Test_data Pred_acc= 44.20, Pred_log_likelihood= -0.69
+  700 Posterior Weight samples Test_data Pred_acc= 44.20, Pred_log_likelihood= -0.69
+  800 Posterior Weight samples Test_data Pred_acc= 44.20, Pred_log_likelihood= -0.69
+  900 Posterior Weight samples Test_data Pred_acc= 44.20, Pred_log_likelihood= -0.69
+ 1000 Posterior Weight samples Test_data Pred_acc= 44.20, Pred_log_likelihood= -0.69
+Acceptance rate= 0.000000
+
+Burnin stage, epsilon = 0.050, L= 50
+Iter   5000 done
+Iter  10000 done
+Iter  15000 done
+Iter  20000 done
+Iter  25000 done
+Iter  30000 done
+Iter  35000 done
+Iter  40000 done
+Iter  45000 done
+Iter  50000 done
+Iter  55000 done
+Iter  60000 done
+Iter  65000 done
+Iter  70000 done
+Iter  75000 done
+Iter  80000 done
+Iter  85000 done
+Iter  90000 done
+Iter  95000 done
+Iter 100000 done
+Generating samples after burnin stage...
+Iter   5000 done
+Iter  10000 done
+Testing on posterior samples...
+  100 Posterior Weight samples Test_data Pred_acc= 44.20, Pred_log_likelihood= -0.69
+  200 Posterior Weight samples Test_data Pred_acc= 44.20, Pred_log_likelihood= -0.69
+  300 Posterior Weight samples Test_data Pred_acc= 44.20, Pred_log_likelihood= -0.69
+  400 Posterior Weight samples Test_data Pred_acc= 44.20, Pred_log_likelihood= -0.69
+  500 Posterior Weight samples Test_data Pred_acc= 44.20, Pred_log_likelihood= -0.69
+  600 Posterior Weight samples Test_data Pred_acc= 44.20, Pred_log_likelihood= -0.69
+  700 Posterior Weight samples Test_data Pred_acc= 44.20, Pred_log_likelihood= -0.69
+  800 Posterior Weight samples Test_data Pred_acc= 44.20, Pred_log_likelihood= -0.69
+  900 Posterior Weight samples Test_data Pred_acc= 44.20, Pred_log_likelihood= -0.69
+ 1000 Posterior Weight samples Test_data Pred_acc= 44.20, Pred_log_likelihood= -0.69
+Acceptance rate= 0.000000
+
+=======================================================================
+Gibbs Sampling with Variable Augmentation for Latent Probit Regression
+=======================================================================
+Burnin stage...
+Iter   5000 done
+Iter  10000 done
+Iter  15000 done
+Iter  20000 done
+Iter  25000 done
+Iter  30000 done
+Iter  35000 done
+Iter  40000 done
+Iter  45000 done
+Iter  50000 done
+Iter  55000 done
+Iter  60000 done
+Iter  65000 done
+Iter  70000 done
+Iter  75000 done
+Iter  80000 done
+Iter  85000 done
+Iter  90000 done
+Iter  95000 done
+Iter 100000 done
+Generating samples after burnin stage...
+Iter   5000 done
+Iter  10000 done
+Testing on posterior samples...
+  100 Posterior Weight samples Test_data Pred_acc= 98.92, Pred_log_likelihood= -0.04
+  200 Posterior Weight samples Test_data Pred_acc= 98.87, Pred_log_likelihood= -0.04
+  300 Posterior Weight samples Test_data Pred_acc= 98.87, Pred_log_likelihood= -0.04
+  400 Posterior Weight samples Test_data Pred_acc= 98.87, Pred_log_likelihood= -0.04
+  500 Posterior Weight samples Test_data Pred_acc= 98.88, Pred_log_likelihood= -0.04
+  600 Posterior Weight samples Test_data Pred_acc= 98.89, Pred_log_likelihood= -0.04
+  700 Posterior Weight samples Test_data Pred_acc= 98.89, Pred_log_likelihood= -0.04
+  800 Posterior Weight samples Test_data Pred_acc= 98.89, Pred_log_likelihood= -0.04
+  900 Posterior Weight samples Test_data Pred_acc= 98.89, Pred_log_likelihood= -0.04
+ 1000 Posterior Weight samples Test_data Pred_acc= 98.89, Pred_log_likelihood= -0.04
